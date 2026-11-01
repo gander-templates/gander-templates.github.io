@@ -1,0 +1,15 @@
+title: gander-templates
+tagline: shared project and repository templates by gander
+description: Shared project and repository templates by gander.
+url: https://gander-templates.github.io
+baseurl: ""
+owner:
+  name: gander
+  url: https://github.com/gander
+org_url: https://github.com/gander-templates
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
